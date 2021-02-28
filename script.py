@@ -21,15 +21,15 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : GAGAN Zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @expertinbotmaking
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Zee5-Downloader'>Click Here</a>"""
+⭕️<b>contact :</b> 👉 <a href='https://t.me/expertinbotmaking'>Click Here</a>"""
 
 
 
@@ -55,7 +55,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@andhrabots\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
